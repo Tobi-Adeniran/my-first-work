@@ -60,7 +60,7 @@ ul{
     
 }
 .input::placeholder{
-color: grey;
+color: #ccc;
 font-size: 15px;
 
 }
